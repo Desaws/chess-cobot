@@ -1,1 +1,1 @@
-# Chess-cobot
+# сhess-cobot
